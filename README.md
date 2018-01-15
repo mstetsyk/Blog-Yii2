@@ -1,4 +1,4 @@
-Yii 2 Basic Project Template
+Yii 2 BLOG
 ============================
 
 Yii 2 Basic Blog Project with login/logout and a contact page.
