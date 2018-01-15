@@ -76,7 +76,9 @@ return [
 **NOTES:**
 - Yii won't create the database for you, this has to be done manually before you can access it.
 - Check and edit the other files in the `config/` directory to customize your application as required.
-- Use /admin in URL for adminpanel
+- Use /admin in URL for adminpanel.
+- For more secure user data protection - use UserRecord.php
+
 
 
 
